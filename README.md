@@ -20,3 +20,14 @@ Repo for Logistic Leads
 - Ubuntu Pictogram Mens T-shirt
 - Ubuntu Cap (Grey)
 
+## Meals & Refreshments
+- Lunch Day-1 & Day-2- ₹60-65k
+- Dinner Day-1- ₹36k
+- RefreshMents- ₹25k
+- Coffee- ₹5k
+
+## Services
+- Internet- ₹5k
+- Matress/Cushions- ₹6k
+- Tshirts/Kits- ₹10k
+- Posters/Banners/Flyers- ₹60k
