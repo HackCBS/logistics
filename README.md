@@ -12,3 +12,6 @@ Repo for Logistic Leads
 - devRant devDucks
 - devRant mousepad
 - devRant stress ball
+- Raspberry Pi
+- Arduino Board
+- Sticker Mule Giftcard
